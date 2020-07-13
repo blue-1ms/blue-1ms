@@ -12,7 +12,9 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=blue-1ms)](https://github.com/blue-1ms)
 
 #### Other Social Medias
-[Twitter](https://twitter.com/rainlink) | [LinkedIn](https://www.linkedin.com/in/oscar-1ms/) | [Email](mailto:blue@bluexguardian.com)
+Search Results
+Web results
+🐦[Twitter](https://twitter.com/rainlink) | 💼[LinkedIn](https://www.linkedin.com/in/oscar-1ms/) | 📧[Email](mailto:blue@bluexguardian.com)
  
 
 <!--
