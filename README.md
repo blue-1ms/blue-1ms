@@ -3,6 +3,7 @@
 
 #### Current Working on
 * [SimPlan](https://github.com/blue-1ms/Simplan) - *A C# WPF Program to assist student's with their semester planning.*
+* [theDesk by vicr123](https://translate.vicr123.com/projects/thedesk/) - *Translation for Slovak and Simplified Chinese*
 
 #### I work with
 * ☁ AWS EC2 
