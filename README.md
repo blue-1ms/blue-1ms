@@ -3,6 +3,7 @@
 
 #### Current Working on
 * [SimPlan](https://github.com/blue-1ms/Simplan) - *A C# WPF Program to assist student's with their semester planning.*
+* [Tekh](https://github.com/ShaanCoding/Tekh) - *A discord bot written in Java*
 * [the24 by vicr123](https://github.com/vicr123/the24) | [theDesk by vicr123](https://github.com/vicr123/thedesk) | [theBeat by vicr123](https://github.com/vicr123/theBeat) *Translation for Slovak and Simplified Chinese*
 
 #### I work with
