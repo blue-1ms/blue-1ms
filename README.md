@@ -10,6 +10,10 @@
 * ☁ AWS EC2 
 * 💻 Python | C# | C++ | Java
 
+#### Some Completed Stuff
+* [bluexguardian.com](https://bluexguardian.com) - *My domain hosted on GitHub*
+* [PigeonTracker](https://github.com/blue-1ms/PigeonTracker) - *A C# Program to help keep track of your owned games :P (made in 2018 so needs update)*
+
  #### Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=blue-1ms)](https://github.com/blue-1ms)
 
