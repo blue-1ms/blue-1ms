@@ -12,6 +12,7 @@
 * 💻 Python | C# | C++ | Java | React
 
 #### Some Completed Stuff
+* [Pay Roll Calculator](https://github.com/blue-1ms/Simple-Pay-Roll-Calculator) - *A simple payroll calculator written in Python*
 * [bluexguardian.com](https://bluexguardian.com) - *My domain hosted on GitHub*
 * [PigeonTracker](https://github.com/blue-1ms/PigeonTracker) - *A C# Program to help keep track of your owned games :P (made in 2018 so needs update)*
 
