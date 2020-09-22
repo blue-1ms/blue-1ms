@@ -9,7 +9,7 @@
 
 #### I work with
 * ☁ AWS EC2 
-* 💻 Python | C# | C++ | Java
+* 💻 Python | C# | C++ | Java | React
 
 #### Some Completed Stuff
 * [bluexguardian.com](https://bluexguardian.com) - *My domain hosted on GitHub*
