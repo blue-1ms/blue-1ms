@@ -2,8 +2,7 @@
 * Welcome to my pond, feel free to check out my 🌐 [website](https://bluexguardian.com) :P
 
 ## Current Working on
-* [Tekh](https://github.com/ShaanCoding/Tekh) - *A discord bot written in Java*
-* [the24 by vicr123](https://github.com/vicr123/the24) | [theDesk by vicr123](https://github.com/vicr123/thedesk) | [theBeat by vicr123](https://github.com/vicr123/theBeat) *Translation for Slovak and Simplified Chinese*
+//
 
 ### I work with
 * ☁ AWS 
