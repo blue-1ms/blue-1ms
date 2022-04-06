@@ -1,4 +1,4 @@
-# Hi there, I'm Oscar aka blue-1ms👋
+# Hi.
 
 ## Current Working on
 - Unity Projects
