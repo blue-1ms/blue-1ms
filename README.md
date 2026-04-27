@@ -56,10 +56,6 @@ I build automation-heavy tools, diagnose complex systems, and enjoy turning mess
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=blue-1ms&amp;theme=github-compact&amp;hide_border=true" alt="GitHub activity graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blue-1ms&amp;theme=flat&amp;no-frame=true&amp;margin-w=8&amp;margin-h=8" alt="GitHub trophies" />
-</p>
-
 ## Connect
 
 <p align="left">
