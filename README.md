@@ -19,14 +19,14 @@
     <img src="https://img.shields.io/github/followers/blue-1ms?label=Followers&amp;style=flat&amp;logo=github" alt="GitHub followers" />
   </a>
   <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&amp;query=%24.public_repos&amp;url=https%3A%2F%2Fapi.github.com%2Fusers%2Fblue-1ms&amp;style=flat&amp;logo=github&amp;color=0e75b6" alt="Public repositories" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=Org%20Repos&amp;query=%24.public_repos&amp;url=https%3A%2F%2Fapi.github.com%2Forgs%2FGhostFlow-AI-Lab&amp;style=flat&amp;logo=github&amp;color=111827" alt="GhostFlow AI Lab public repositories" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Org%20Repos&amp;query=%24.public_repos&amp;url=https%3A%2F%2Fapi.github.com%2Forgs%2FGhostFlow-AI-Lab&amp;style=flat&amp;logo=github&amp;color=111827" alt="GhostFlow Lab public repositories" />
 </p>
 
 ## About
 
 I build automation-heavy tools, diagnose complex systems, and enjoy turning messy operational work into clean, repeatable workflows.
 
-- Current organization: [GhostFlow Lab](https://github.com/GhostFlow-AI-Lab)
+- Current organization: [GhostFlow Lab](https://github.com/GhostFlow-Lab)
 - Product home: [gengartech.com](https://gengartech.com/)
 - Core interests: Python, PowerShell, infrastructure automation, networking, virtualization, cloud systems, and AI-assisted workflow tools
 - Personal contact: [Email](mailto:mew@mewhouse.com.au) | [LinkedIn](https://linkedin.com/in/oscar-tian)
