@@ -40,21 +40,6 @@ I build automation-heavy tools, diagnose complex systems, and enjoy turning mess
 | [CV by GhostFlow Lab](https://cv.gengartech.com/) | Available now | AI resume tailoring, role-match feedback, cover letters, interview prep, version history, and application tracking |
 | [Veya by GhostFlow Lab](https://gengartech.com/veya.html) | Invite-only beta | Privacy-first friend location, live meetup status, ETA coordination, and Ghost Mode |
 
-## GitHub Trackers
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=blue-1ms&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue-1ms&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=blue-1ms&amp;theme=transparent&amp;hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blue-1ms&amp;theme=github-compact&amp;hide_border=true" alt="GitHub activity graph" />
-</p>
-
 ## Connect
 
 <p align="left">
