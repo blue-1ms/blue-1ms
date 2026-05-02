@@ -1,5 +1,5 @@
 <h1 align="center">Oscar Tian</h1>
-<h3 align="center">Software Engineer in Australia | GhostFlow AI Lab</h3>
+<h3 align="center">Software Engineer in Australia | GhostFlow Lab</h3>
 
 <p align="center">
   <a href="https://github.com/GhostFlow-AI-Lab">
@@ -26,7 +26,7 @@
 
 I build automation-heavy tools, diagnose complex systems, and enjoy turning messy operational work into clean, repeatable workflows.
 
-- Current organization: [GhostFlow AI Lab](https://github.com/GhostFlow-AI-Lab)
+- Current organization: [GhostFlow Lab](https://github.com/GhostFlow-AI-Lab)
 - Product home: [gengartech.com](https://gengartech.com/)
 - Core interests: Python, PowerShell, infrastructure automation, networking, virtualization, cloud systems, and AI-assisted workflow tools
 - Personal contact: [Email](mailto:mew@mewhouse.com.au) | [LinkedIn](https://linkedin.com/in/oscar-tian)
@@ -39,7 +39,6 @@ I build automation-heavy tools, diagnose complex systems, and enjoy turning mess
 | --- | --- | --- |
 | [CV by GhostFlow Lab](https://cv.gengartech.com/) | Available now | AI resume tailoring, role-match feedback, cover letters, interview prep, version history, and application tracking |
 | [Veya by GhostFlow Lab](https://gengartech.com/veya.html) | Invite-only beta | Privacy-first friend location, live meetup status, ETA coordination, and Ghost Mode |
-| [AutoChatFlow by GhostFlow Lab](https://gengartech.com/autochatflow.html) | Coming soon | AI-powered pre-sales automation for WeChat, WeCom, and WhatsApp with lead scoring, handoff alerts, guardrails, and an operations dashboard |
 
 ## GitHub Trackers
 
