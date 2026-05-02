@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/GhostFlow-AI-Lab">
-    <img src="https://img.shields.io/badge/Organization-GhostFlow%20AI%20Lab-111827?style=for-the-badge&amp;logo=github" alt="GhostFlow AI Lab" />
+    <img src="https://img.shields.io/badge/Organization-GhostFlow%20AI%20Lab-111827?style=for-the-badge&amp;logo=github" alt="GhostFlow Lab" />
   </a>
   <a href="https://gengartech.com/">
     <img src="https://img.shields.io/website?style=for-the-badge&amp;label=gengartech.com&amp;url=https%3A%2F%2Fgengartech.com%2F" alt="Website status" />
@@ -31,15 +31,15 @@ I build automation-heavy tools, diagnose complex systems, and enjoy turning mess
 - Core interests: Python, PowerShell, infrastructure automation, networking, virtualization, cloud systems, and AI-assisted workflow tools
 - Personal contact: [Email](mailto:mew@mewhouse.com.au) | [LinkedIn](https://linkedin.com/in/oscar-tian)
 
-## GhostFlow AI Lab
+## GhostFlow Lab
 
-[GhostFlow AI Lab](https://gengartech.com/) builds compact AI products for real workflows: job applications, trusted meetup coordination, and high-intent customer conversations.
+[GhostFlow Lab](https://gengartech.com/) builds compact AI products for real workflows: job applications, trusted meetup coordination, and high-intent customer conversations.
 
 | Product | Status | Focus |
 | --- | --- | --- |
-| [CV by GhostFlow AI Lab](https://cv.gengartech.com/) | Available now | AI resume tailoring, role-match feedback, cover letters, interview prep, version history, and application tracking |
-| [Veya by GhostFlow AI Lab](https://gengartech.com/veya.html) | Invite-only beta | Privacy-first friend location, live meetup status, ETA coordination, and Ghost Mode |
-| [AutoChatFlow by GhostFlow AI Lab](https://gengartech.com/autochatflow.html) | Coming soon | AI-powered pre-sales automation for WeChat, WeCom, and WhatsApp with lead scoring, handoff alerts, guardrails, and an operations dashboard |
+| [CV by GhostFlow Lab](https://cv.gengartech.com/) | Available now | AI resume tailoring, role-match feedback, cover letters, interview prep, version history, and application tracking |
+| [Veya by GhostFlow Lab](https://gengartech.com/veya.html) | Invite-only beta | Privacy-first friend location, live meetup status, ETA coordination, and Ghost Mode |
+| [AutoChatFlow by GhostFlow Lab](https://gengartech.com/autochatflow.html) | Coming soon | AI-powered pre-sales automation for WeChat, WeCom, and WhatsApp with lead scoring, handoff alerts, guardrails, and an operations dashboard |
 
 ## GitHub Trackers
 
