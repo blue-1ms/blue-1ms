@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer in Australia | GhostFlow Lab</h3>
 
 <p align="center">
-  <a href="https://github.com/GhostFlow-AI-Lab">
+  <a href="https://github.com/GhostFlow-Lab">
     <img src="https://img.shields.io/badge/Organization-GhostFlow%20AI%20Lab-111827?style=for-the-badge&amp;logo=github" alt="GhostFlow Lab" />
   </a>
   <a href="https://gengartech.com/">
