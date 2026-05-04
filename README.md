@@ -42,7 +42,7 @@ I build automation-heavy tools, diagnose complex systems, and enjoy turning mess
 | Product | Status | Focus |
 |---------|--------|-------|
 | [CV by GhostFlow Lab](https://cv.gengartech.com/) | ✅ Available now | AI resume tailoring, role-match feedback, cover letters, interview prep, version history, and application tracking |
-| [Veya by GhostFlow Lab](https://gengartech.com/veya.html) | 🔒 Invite-only beta | Privacy-first friend location, live meetup status, ETA coordination, and Ghost Mode |
+| [Veya by GhostFlow Lab](https://gengartech.com/veya.html) · [App Store](https://apps.apple.com/au/app/veya-by-ghostflow/id6764722308) | ✅ Available on App Store | Privacy-first friend location, live meetup status, ETA coordination, and Ghost Mode |
 
 ---
 
