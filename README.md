@@ -28,38 +28,6 @@
 
 I build automation-heavy tools, diagnose complex systems, and enjoy turning messy operational work into clean, repeatable workflows.
 
-- **Organization:** [GhostFlow Lab](https://github.com/GhostFlow-Lab)
-- **Website:** [gengartech.com](https://gengartech.com/)
-- **Interests:** Python, PowerShell, infrastructure automation, networking, virtualization, cloud systems, AI-assisted workflow tools
-- **Contact:** [mew@mewhouse.com.au](mailto:mew@mewhouse.com.au) · [LinkedIn](https://linkedin.com/in/oscar-tian)
-
----
-
-## GhostFlow Lab
-
-[GhostFlow Lab](https://gengartech.com/) builds compact AI products for real workflows — job applications, trusted meetup coordination, and high-intent customer conversations.
-
-| Product | Status | Focus |
-|---------|--------|-------|
-| [CV by GhostFlow Lab](https://cv.gengartech.com/) | ✅ Available now | AI resume tailoring, role-match feedback, cover letters, interview prep, version history, and application tracking |
-| [Veya by GhostFlow Lab](https://gengartech.com/veya.html) · [App Store](https://apps.apple.com/au/app/veya-by-ghostflow/id6764722308) | ✅ Available on App Store | Privacy-first friend location, live meetup status, ETA coordination, and Ghost Mode |
-
----
-
-## A Note on Veya
-
-> A bit of backstory on why I built Veya:
->
-> I was a huge fan of **Zenly** and was really disappointed when it shut down. The idea of staying connected with close friends in a lightweight, visual way just resonated with me.
-> So I decided to bring that concept back to life — but with even more features focused on real-world coordination and privacy.
->
-> **Veya will always be free. 💯**
-> This is a passion project, not a money grab. If you love the app and want to support or sponsor its development, feel free to reach out to me directly. Otherwise, just download and enjoy — no strings attached! 🙌
->
-> With love,
-> Oscar ❤️
-
----
 
 ## Connect
 
