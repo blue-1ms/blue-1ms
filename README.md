@@ -1,16 +1,8 @@
 # Oscar Tian
 
-Data Protection @ Dell Technologies. Technical Support Engineer, Systems Administrator, and tech enthusiast based in Sydney.
-
 [Personal](https://bluexguardian.com/) / [Studio](https://gengartech.com/) / [LinkedIn](https://linkedin.com/in/oscar-tian) / [Email](mailto:mew@mewhouse.com.au)
 
 ---
-
-## Now
-
-- Diagnosing data protection, server, and networking issues.
-- Building Python and PowerShell automation for repeatable operations.
-- Exploring virtualization, cloud tooling, and small product ideas.
 
 ## Work
 
