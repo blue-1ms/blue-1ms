@@ -1,0 +1,26 @@
+name: Update GitHub activity card
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate activity card
+        uses: cicirello/user-statistician@v1
+        with:
+          colors: dark-dimmed
+          include-title: false
+          image-file: images/userstats.svg
+          max-languages: 6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
